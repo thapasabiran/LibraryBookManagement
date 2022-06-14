@@ -1,19 +1,19 @@
 # LibraryBookManagement
 
-Technologies Used
+# Technologies Used
 Android Studio
 Kotlin
 RoomDB
 Coroutine
 Recycler View
 
-Features
+# Features
 
 Allow user to add new book
 Allow student to search for and checkout book
 Add new student
 
-To-do list:
+# To-do list:
 
 Page to request for time extension of book
 
