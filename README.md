@@ -9,12 +9,12 @@
 
 ## Features
 
+List of features ready:
 *Allow user to add new book
 *Allow student to search for and checkout book
 *Add new student
 
-## To-do list:
-
+To-do list:
 *Page to request for time extension of book
 
 ![image](https://user-images.githubusercontent.com/31942533/173633446-f7ff8605-f01f-46af-90b9-728bb9c2692e.png)
